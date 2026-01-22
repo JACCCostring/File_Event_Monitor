@@ -47,3 +47,10 @@ def main():
     #to stop the watcher/monitor just use the method stop_watching() or watcher.stop_watching()
 
 ```
+
+Example:
+
+<img width="1678" height="978" alt="Screenshot 2026-01-22 at 19 09 54" src="https://github.com/user-attachments/assets/bab7e8c9-1c9e-41fc-b26c-f16d132e2e20" />
+
+<img width="953" height="980" alt="Screenshot 2026-01-22 at 19 10 24" src="https://github.com/user-attachments/assets/f972a8ad-7210-455f-92dc-c1c9e3970416" />
+
